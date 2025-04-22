@@ -25,9 +25,9 @@
      inkscape:document-units="px"
      showguides="true"
      showgrid="true"
-     inkscape:zoom="18.182247"
-     inkscape:cx="16.609608"
-     inkscape:cy="9.5422749"
+     inkscape:zoom="45.254834"
+     inkscape:cx="27.952815"
+     inkscape:cy="3.8117475"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="1912"
@@ -98,18 +98,18 @@
 
 </g>
     <ellipse
-       style="fill:none;fill-rule:evenodd;stroke:#ff1600;stroke-width:0.322504;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#ff1600;stroke-width:0.373076;stroke-dasharray:none;stroke-opacity:1"
        id="path12"
-       cx="1.7391312"
-       cy="1.761584"
-       rx="1.5792074"
-       ry="1.5879251" />
+       cx="1.7392026"
+       cy="1.7694179"
+       rx="1.5659109"
+       ry="1.581275" />
     <ellipse
-       style="fill:none;fill-rule:evenodd;stroke:#ff1600;stroke-width:0.322545;stroke-dasharray:none;stroke-opacity:1"
-       id="path12-4"
-       cx="6.7223539"
-       cy="1.7683526"
-       rx="1.5724189"
-       ry="1.5951807" />
+       style="fill:none;fill-rule:evenodd;stroke:#ff1600;stroke-width:0.373076;stroke-dasharray:none;stroke-opacity:1"
+       id="path12-6"
+       cx="6.7190151"
+       cy="1.7680357"
+       rx="1.5659109"
+       ry="1.581275" />
   </g>
 </svg>
