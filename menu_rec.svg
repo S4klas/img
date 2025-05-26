@@ -115,22 +115,22 @@
        sodipodi:nodetypes="cc" />
     <path
        id="rect4"
-       style="opacity:0.603648;fill:#00ff0f;fill-rule:evenodd;stroke-width:0.352056;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers"
+       style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.352056;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers;fill-opacity:1"
        d="M 0.63981772,2.7559469 2.7763542,0.84329136 30.896245,0.84805336 30.863266,4.8477266 28.772311,6.7309594 0.59020835,6.7660385 Z"
        sodipodi:nodetypes="ccccccc" />
     <path
        id="rect4-3"
-       style="opacity:0.603648;fill:#00ff0f;fill-rule:evenodd;stroke-width:0.352056;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers"
+       style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.352056;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers;fill-opacity:1"
        d="m 0.56363072,9.033944 2.13653608,-1.9126555 28.1198912,0.00476 -0.03298,3.9996735 -2.090955,1.883233 -28.18210268,0.03508 z"
        sodipodi:nodetypes="ccccccc" />
     <path
        id="rect4-3-6"
-       style="opacity:0.603648;fill:#00ff0f;fill-rule:evenodd;stroke-width:0.352056;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers"
+       style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.352056;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers;fill-opacity:1"
        d="M 0.53623332,15.427629 2.6727693,13.514973 30.79266,13.519773 30.75968,17.519447 28.668725,19.40268 0.48662292,19.43776 Z"
        sodipodi:nodetypes="ccccccc" />
     <path
        id="rect4-3-6-8"
-       style="opacity:0.603648;fill:#00ff0f;fill-rule:evenodd;stroke-width:0.352056;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers"
+       style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.352056;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers;fill-opacity:1"
        d="m 0.51263121,21.69026 2.13653599,-1.912656 28.1198908,0.0048 -0.03298,3.999674 -2.090955,1.883233 -28.18210219,0.03508 z"
        sodipodi:nodetypes="ccccccc" />
   </g>
