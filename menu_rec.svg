@@ -9,6 +9,8 @@
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    sodipodi:docname="menu_rec.svg"
+   inkscape:export-batch-path="C:\Users\labc9\Desktop\Test img"
+   inkscape:export-batch-name="batch"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,8 +28,8 @@
      showguides="true"
      showgrid="true"
      inkscape:zoom="4"
-     inkscape:cx="58.25"
-     inkscape:cy="93.875"
+     inkscape:cx="63.75"
+     inkscape:cy="46.125"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
@@ -63,6 +65,21 @@
        empspacing="5"
        enabled="true"
        visible="true" />
+    <sodipodi:guide
+       position="0.38148549,34.287955"
+       orientation="0,-1"
+       id="guide5"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2.7595579,36.433628"
+       orientation="1,0"
+       id="guide6"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2.9115674,36.19392"
+       orientation="0,-1"
+       id="guide7"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs1" />
@@ -96,5 +113,25 @@
        d="m 31.236752,34.320069 -2.21908,2.429443"
        id="path3-2"
        sodipodi:nodetypes="cc" />
+    <path
+       id="rect4"
+       style="opacity:0.603648;fill:#00ff0f;fill-rule:evenodd;stroke-width:0.352056;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers"
+       d="M 0.63981772,2.7559469 2.7763542,0.84329136 30.896245,0.84805336 30.863266,4.8477266 28.772311,6.7309594 0.59020835,6.7660385 Z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="rect4-3"
+       style="opacity:0.603648;fill:#00ff0f;fill-rule:evenodd;stroke-width:0.352056;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers"
+       d="m 0.56363072,9.033944 2.13653608,-1.9126555 28.1198912,0.00476 -0.03298,3.9996735 -2.090955,1.883233 -28.18210268,0.03508 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="rect4-3-6"
+       style="opacity:0.603648;fill:#00ff0f;fill-rule:evenodd;stroke-width:0.352056;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers"
+       d="M 0.53623332,15.427629 2.6727693,13.514973 30.79266,13.519773 30.75968,17.519447 28.668725,19.40268 0.48662292,19.43776 Z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="rect4-3-6-8"
+       style="opacity:0.603648;fill:#00ff0f;fill-rule:evenodd;stroke-width:0.352056;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers"
+       d="m 0.51263121,21.69026 2.13653599,-1.912656 28.1198908,0.0048 -0.03298,3.999674 -2.090955,1.883233 -28.18210219,0.03508 z"
+       sodipodi:nodetypes="ccccccc" />
   </g>
 </svg>
