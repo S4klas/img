@@ -26,8 +26,8 @@
      showguides="true"
      showgrid="true"
      inkscape:zoom="10.5875"
-     inkscape:cx="35.891381"
-     inkscape:cy="25.454545"
+     inkscape:cx="51.75915"
+     inkscape:cy="21.393152"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
@@ -63,17 +63,17 @@
     <path
        id="rect2-7-2-9"
        style="fill-rule:evenodd;stroke:#0b2b36;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers"
-       d="m 18.520833,0 h 2.645833 l -4.233333,4.7624997 -2.645833,0 z"
+       d="M 19.070617,0 H 21.71645 L 17.483117,4.7624997 H 14.837284 Z"
        sodipodi:nodetypes="ccccc" />
     <path
        id="rect2-7-2-9-5"
        style="fill-rule:evenodd;stroke:#0b2b36;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers"
-       d="m 13.229166,0 h 2.645833 L 11.641667,4.7624997 H 8.9958327 Z"
+       d="m 14.816666,0 h 2.645833 l -4.233332,4.7624997 h -2.645834 z"
        sodipodi:nodetypes="ccccc" />
     <path
        id="rect2-7-2-9-2"
        style="fill-rule:evenodd;stroke:#0b2b36;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers"
-       d="M 7.9374997,0 H 10.583333 L 6.3499997,4.7624997 h -2.645833 z"
+       d="m 10.583333,0 h 2.645833 L 8.9958329,4.7624997 h -2.645833 z"
        sodipodi:nodetypes="ccccc" />
   </g>
 </svg>
