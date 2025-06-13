@@ -25,9 +25,9 @@
      inkscape:document-units="px"
      showguides="true"
      showgrid="true"
-     inkscape:zoom="14.972986"
-     inkscape:cx="54.364573"
-     inkscape:cy="17.464786"
+     inkscape:zoom="10.5875"
+     inkscape:cx="35.891381"
+     inkscape:cy="25.454545"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
@@ -61,24 +61,19 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="rect2"
-       style="opacity:1;fill-rule:evenodd;stroke:#0b2b36;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers"
-       d="M 10.583334,0 H 12.7 l -3.1995964,4.7624999 -2.0920703,-2e-7 z"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       id="rect2-7"
+       id="rect2-7-2-9"
        style="fill-rule:evenodd;stroke:#0b2b36;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers"
-       d="m 14.816667,0 h 2.116666 l -3.199596,4.7624999 -2.092071,-2e-7 z"
+       d="m 18.520833,0 h 2.645833 l -4.233333,4.7624997 -2.645833,0 z"
        sodipodi:nodetypes="ccccc" />
     <path
-       id="rect2-7-2"
+       id="rect2-7-2-9-5"
        style="fill-rule:evenodd;stroke:#0b2b36;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers"
-       d="m 19.05,0 h 2.116666 l -3.199596,4.7624999 -2.092071,-2e-7 z"
+       d="m 13.229166,0 h 2.645833 L 11.641667,4.7624997 H 8.9958327 Z"
        sodipodi:nodetypes="ccccc" />
     <path
-       id="rect2-7-2-1"
-       style="fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
-       d="m 21.166666,0 0,4.7624997 -1.08293,2e-7 -2.092071,-2e-7 z"
+       id="rect2-7-2-9-2"
+       style="fill-rule:evenodd;stroke:#0b2b36;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers"
+       d="M 7.9374997,0 H 10.583333 L 6.3499997,4.7624997 h -2.645833 z"
        sodipodi:nodetypes="ccccc" />
   </g>
 </svg>
