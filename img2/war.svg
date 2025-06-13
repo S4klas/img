@@ -63,17 +63,17 @@
     <path
        id="rect2-7-2-9"
        style="fill-rule:evenodd;stroke:#0b2b36;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers"
-       d="M 19.070617,0 H 21.71645 L 17.483117,4.7624997 H 14.837284 Z"
+       d="m 20.108333,0 h 1.608117 l -4.233333,4.7624997 -1.608118,0 z"
        sodipodi:nodetypes="ccccc" />
     <path
-       id="rect2-7-2-9-5"
+       id="rect2-7-2-9-1"
        style="fill-rule:evenodd;stroke:#0b2b36;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers"
-       d="m 14.287499,0 h 2.645833 L 12.7,4.7624997 h -2.645834 z"
+       d="m 16.404166,0 h 1.608117 L 13.77895,4.7624997 h -1.608118 z"
        sodipodi:nodetypes="ccccc" />
     <path
-       id="rect2-7-2-9-2"
+       id="rect2-7-2-9-1-7"
        style="fill-rule:evenodd;stroke:#0b2b36;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.4;paint-order:stroke fill markers"
-       d="M 9.5249996,0 H 12.170833 L 7.9374995,4.7624997 h -2.645833 z"
+       d="m 12.7,0 h 1.608117 L 10.074784,4.7624997 H 8.4666655 Z"
        sodipodi:nodetypes="ccccc" />
   </g>
 </svg>
